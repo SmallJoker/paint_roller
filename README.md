@@ -7,6 +7,7 @@ Currently supported out of the box: wool, coloredwood
 
 
 Depends: default, wool
+
 License: CC0
 
 
